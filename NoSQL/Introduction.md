@@ -101,10 +101,15 @@ As a result of storing all the information in a single document, we can retrieve
 #### Mapping concepts:
 
 - Column  &rarr; Field
+  
 ![Column to Field](Images/image.png)  
+
 - Row &rarr; Document
+  
 ![Row to Document](Images/image-2.png)
+
 - Table &rarr; Collection
+  
 ![Table to Collection](Images/image-1.png)
 
 
